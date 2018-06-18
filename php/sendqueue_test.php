@@ -3,7 +3,7 @@
 
     echo "Testing MOPH Connect ticket API";
 
-    $line_id = $_GET['lineid'];
+    $line_id = "U782b7b45ce168aa530163b99f6076f83";
 
     echo "<br> line id: $line_id";
 
